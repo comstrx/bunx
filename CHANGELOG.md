@@ -2,6 +2,10 @@
 
 Every release of BunX.
 
+## v0.1.3 — 2026-10-18
+
+- The README's Download block: `bunx-installer.sh` / `.ps1` unpack the latest release's source, or clone and run `bun run gates`.
+
 ## v0.1.2 — 2026-10-18
 
 - `net`: a forwarded host or proto is read from the hop the outermost trusted proxy wrote, counted from the right like forwarded-for and absent past the chain, never from the value a client sent first.
